@@ -1,0 +1,13 @@
+host:
+  path: /
+  port: 8021
+
+log:
+  level: info
+
+db:
+  host: cdb-4h8fssav.gz.tencentcdb.com
+  port: 10131
+  user: root
+  password: 'Cosfcoco00'
+  dbname: stock_us

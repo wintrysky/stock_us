@@ -1,0 +1,1 @@
+rassecli db model --host xxxx --port xxxx --user xxxx --pwd xxxx --db stock_us -t stock_basic,stock_basic_history
